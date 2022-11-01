@@ -1,6 +1,7 @@
 # mse.python - Bài tập môn học Python
 - **Giảng viên: PGS.TS- Nguyễn Thanh Hiên**
 - **Khoá học: MSE#11HCM**
+- **Môn học: Python for Engineers**
 - **Học viên: Ngô Tấn Cường**
 - **Student ID#: 22MSE23071**
 - **D.O.B: 02/02/1985**
